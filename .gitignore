@@ -36,6 +36,15 @@ MANIFEST
 pip-log.txt
 pip-delete-this-directory.txt
 
+# Data science specific - added per Perplexity (BD - 20250625)
+*.csv
+*.rds
+*.parquet
+*.hdf5
+*.pkl
+output/
+results/
+
 # Unit test / coverage reports
 htmlcov/
 .tox/
